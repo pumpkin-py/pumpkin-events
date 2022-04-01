@@ -1,0 +1,122 @@
+msgid You don't seem to have any symptoms.
+msgstr Zdá sa, že nemáte žiadne príznaky.
+
+msgid Be careful, make sure you don't infect anyone else.
+msgstr Buďte opatrní, aby ste nikoho ďalšieho nenakazili.
+
+msgid Health check
+msgstr Kontrola zdravia
+
+msgid You can't get infected by the virus anymore.
+msgstr Vírusom sa už nakaziť nemôžeš.
+
+msgid Infected at
+msgstr Čas nakazenia
+
+msgid You are patient zero.
+msgstr Si nultý pacient.
+
+msgid No message
+msgstr Infikovaná správa nenájdená
+
+msgid Infected by
+msgstr Zdroj nakazenia
+
+msgid (patient zero)
+msgstr (pacient nula)
+
+msgid Asymptomatic
+msgstr Asympatomatický
+
+msgid Symptomatic
+msgstr Symptomatický
+
+msgid Cured
+msgstr Vyliečený
+
+msgid Name
+msgstr Meno
+
+msgid Status
+msgstr Status
+
+msgid No one has been infected.
+msgstr Nikto nebol nakazený.
+
+msgid Infection spread
+msgstr Šírenie infekcie
+
+msgid Minutes since patient zero
+msgstr Minút od pacienta nula
+
+msgid # of infected
+msgstr počet infikovaných
+
+msgid Infected
+msgstr Infikováno
+
+msgid That member cannot be infected.
+msgstr Tento používateľ nemôže byť nakazený.
+
+msgid Member infected.
+msgstr Užívateľ nakazený.
+
+msgid Config is already initiated.
+msgstr Konfigurácia už bola iniciovaná.
+
+msgid Infection configuration has been initiated.
+msgstr Konfigurácia infekcie bola inicializovaná.
+
+msgid The virus is already spreadng.
+msgstr Vírus sa už šíri.
+
+msgid The virus will be spreadng now.
+msgstr Vírus sa teraz bude šíriť.
+
+msgid The virus is not spreadng.
+msgstr Vírus sa sa nešíri.
+
+msgid The virus will not be spreadng now.
+msgstr Vírus sa teraz nebude šíriť.
+
+msgid The spreading is already quiet.
+msgstr Vírus sa už šíri nenápadne.
+
+msgid The virus will be spreadng quietly now.
+msgstr Vírus sa teraz bude šíriť nenápadne.
+
+msgid The spreading is not quiet.
+msgstr Šírenie vírusu nie je nenápadné.
+
+msgid The virus will be spreadng visibly now.
+msgstr Vírus sa teraz bude šíriť nápadne.
+
+msgid Config not initiated.
+msgstr Konfigurácia nie je inicializovaná.
+
+msgid Infection configuration
+msgstr Konfigurácia infekcie
+
+msgid Role
+msgstr Role
+
+msgid Probability
+msgstr Pravdepodobnosť
+
+msgid Symptom delay
+msgstr Oneskorenie symptómov
+
+msgid Cure delay
+msgstr Doba liečenie
+
+msgid Quiet
+msgstr Tichý
+
+msgid Enabled
+msgstr Zapnutý
+
+msgid Probability has to be in interval **<0, 1>**.
+msgstr Pravdepodobnosť musí byť v intervale **<0, 1>**.
+
+msgid Infection probability set to {probability}.
+msgstr Pravdepodobnosť infekcie nastavená na {probability}.
